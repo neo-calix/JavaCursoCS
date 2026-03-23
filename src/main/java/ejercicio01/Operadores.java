@@ -1,4 +1,4 @@
-package JavaCursoCS;
+package ejercicio01;
 
 public class Operadores {
     public static void main(String[] args){
