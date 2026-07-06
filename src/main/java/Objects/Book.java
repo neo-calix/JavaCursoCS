@@ -1,6 +1,6 @@
 package Objects;
 
-public class Book {
+public abstract class Book implements Readable{
     String name = "Book Name";
     String autor = "Book Autor";
     int num_pages = 0;
